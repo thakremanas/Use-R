@@ -1,4 +1,4 @@
-# Use-R
+# Make Weather maps using R
 
 In this script, I will attempt to use Real-world ESRL-NOAA weather dataset and use it to make weather maps using R.
 
